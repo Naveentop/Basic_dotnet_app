@@ -1,0 +1,17 @@
+C:\Users\Naveen\Desktop\webapp\toes\bin\Debug\net6.0\publish\toes.exe
+C:\Users\Naveen\Desktop\webapp\toes\bin\Debug\net6.0\publish\publish\publish\web.config
+C:\Users\Naveen\Desktop\webapp\toes\bin\Debug\net6.0\publish\publish\web.config
+C:\Users\Naveen\Desktop\webapp\toes\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\Users\Naveen\Desktop\webapp\toes\bin\Debug\net6.0\publish\appsettings.json
+C:\Users\Naveen\Desktop\webapp\toes\bin\Debug\net6.0\publish\publish\appsettings.Development.json
+C:\Users\Naveen\Desktop\webapp\toes\bin\Debug\net6.0\publish\publish\appsettings.json
+C:\Users\Naveen\Desktop\webapp\toes\bin\Debug\net6.0\publish\publish\publish\appsettings.Development.json
+C:\Users\Naveen\Desktop\webapp\toes\bin\Debug\net6.0\publish\publish\publish\appsettings.json
+C:\Users\Naveen\Desktop\webapp\toes\bin\Debug\net6.0\publish\publish\publish\toes.deps.json
+C:\Users\Naveen\Desktop\webapp\toes\bin\Debug\net6.0\publish\publish\publish\toes.runtimeconfig.json
+C:\Users\Naveen\Desktop\webapp\toes\bin\Debug\net6.0\publish\publish\toes.deps.json
+C:\Users\Naveen\Desktop\webapp\toes\bin\Debug\net6.0\publish\publish\toes.runtimeconfig.json
+C:\Users\Naveen\Desktop\webapp\toes\bin\Debug\net6.0\publish\toes.dll
+C:\Users\Naveen\Desktop\webapp\toes\bin\Debug\net6.0\publish\toes.deps.json
+C:\Users\Naveen\Desktop\webapp\toes\bin\Debug\net6.0\publish\toes.runtimeconfig.json
+C:\Users\Naveen\Desktop\webapp\toes\bin\Debug\net6.0\publish\toes.pdb

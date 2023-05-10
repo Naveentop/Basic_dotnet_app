@@ -1,0 +1,12 @@
+C:\Users\Naveen\Desktop\webapp\toes\publish\toes.exe
+C:\Users\Naveen\Desktop\webapp\toes\publish\publish\web.config
+C:\Users\Naveen\Desktop\webapp\toes\publish\appsettings.Development.json
+C:\Users\Naveen\Desktop\webapp\toes\publish\appsettings.json
+C:\Users\Naveen\Desktop\webapp\toes\publish\publish\appsettings.Development.json
+C:\Users\Naveen\Desktop\webapp\toes\publish\publish\appsettings.json
+C:\Users\Naveen\Desktop\webapp\toes\publish\publish\toes.deps.json
+C:\Users\Naveen\Desktop\webapp\toes\publish\publish\toes.runtimeconfig.json
+C:\Users\Naveen\Desktop\webapp\toes\publish\toes.dll
+C:\Users\Naveen\Desktop\webapp\toes\publish\toes.deps.json
+C:\Users\Naveen\Desktop\webapp\toes\publish\toes.runtimeconfig.json
+C:\Users\Naveen\Desktop\webapp\toes\publish\toes.pdb
